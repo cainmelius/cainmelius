@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 
 <!--
 **cainmelius/cainmelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
